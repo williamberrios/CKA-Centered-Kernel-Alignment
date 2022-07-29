@@ -10,5 +10,6 @@ gzip
 ```
 
 Toy examples: **CKA.ipynb**
-
+Colab Example:
+https://colab.research.google.com/github/google-research/google-research/blob/master/representation_similarity/Demo.ipynb
 Updating...
